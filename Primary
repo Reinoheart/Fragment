@@ -1,5 +1,5 @@
 /* Font */
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
 
 :root {
   --TB-top: calc(var(--server-container) + var(--window-padding));
@@ -37,8 +37,8 @@
   --fb-overlay-size: var(--popout-modal-size, var(--overlay-image-size));
   --fb-overlay-position: var(--popout-modal-position, var(--overlay-image-position));
   --fb-overlay-repeat: var(--popout-modal-repeat, var(--overlay-image-repeat));
-  --font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-primary: Manrope, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-display: Manrope, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .theme-dark {
@@ -185,7 +185,7 @@ button,
 input,
 select,
 textarea {
-  font-family: var(--font, "Inter"), "Inter";
+  font-family: var(--font, "Manrope"), "Manrope";
 }
 
 #app-mount .tooltip-33Jwqe {
