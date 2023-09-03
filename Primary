@@ -185,7 +185,7 @@ button,
 input,
 select,
 textarea {
-  font-family: var(--font, "gg sans"), "gg sans";
+  font-family: var(--font, "Fredoka"), "Fredoka";
 }
 
 #app-mount .tooltip-33Jwqe {
